@@ -148,7 +148,7 @@ The website is designed to provide a smooth experience across:
 
 ## 🌐 Live Demo
 
-**Live Website:** Add your deployed website URL here.
+**Live Website:**https://freshjuiceshopp.netlify.app
 
 For example, if you deploy the project using GitHub Pages, Netlify, or Vercel, add the published link above.
 
@@ -158,7 +158,7 @@ For example, if you deploy the project using GitHub Pages, Netlify, or Vercel, a
 
 **Created with ❤️ for a refreshing juice experience.**
 
-GitHub: [YOUR-GITHUB-USERNAME](https://github.com/YOUR-USERNAME)
+GitHub: [Cleopatra.jaza](https://github.com/Cleopatra.jaza)
 
 ---
 
