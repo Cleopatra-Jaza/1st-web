@@ -64,27 +64,7 @@ If your project uses React, Vite, Tailwind CSS, or another framework, include th
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-```
-
-### 2. Open the Project Folder
-
-```bash
-cd YOUR-REPOSITORY
-```
-
-### 3. Run the Website
-
-If the project uses plain HTML, CSS, and JavaScript, open `index.html` in your browser or use the VS Code Live Server extension.
-
-If the project uses a framework, follow the setup instructions in its `package.json` or project documentation.
-
----
 
 ## 🎥 Background Video Setup
 
