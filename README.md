@@ -128,7 +128,7 @@ The website is designed to provide a smooth experience across:
 
 ## 🌐 Live Demo
 
-**Live Website:**https://freshjuiceshopp.netlify.app
+**Live Website:** https://freshjuiceshopp.netlify.app
 
 For example, if you deploy the project using GitHub Pages, Netlify, or Vercel, add the published link above.
 
